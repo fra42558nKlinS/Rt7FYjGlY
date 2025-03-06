@@ -2,7 +2,6 @@ PREFIX = /usr/local
 BINDIR = $(PREFIX)/bin
 
 MKDIR = mkdir -p
-CP = cp -v
 GCC = gcc -std=c99
 
 gcv2hocr: main.c
