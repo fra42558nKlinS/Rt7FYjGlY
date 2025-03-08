@@ -32,7 +32,6 @@ BraceWrapping:
 BreakBeforeBinaryOperators: NonAssignment
 BreakBeforeBraces: Custom
 BreakBeforeTernaryOperators: true
-BreakStringLiterals: true
 ColumnLimit: 120
 ContinuationIndentWidth: 2
 Cpp11BracedListStyle: false
