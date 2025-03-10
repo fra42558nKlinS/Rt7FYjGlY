@@ -68,7 +68,6 @@ if (env === 'test') {
     comments: false,
 
     plugins: [
-      '@babel/plugin-transform-modules-commonjs',
       '@babel/plugin-proposal-class-properties',
     ],
     presets: ['@babel/preset-react', '@babel/preset-flow'],
