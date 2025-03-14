@@ -11,7 +11,6 @@
     "tests",
     "tasks",
     "component.json",
-    "composer.json",
     "CONTRIBUTING.md",
     "package.js",
     "package.json"
