@@ -1,5 +1,4 @@
 locust.egg-info/**
-locustio.egg-info/**
 build/
 .coverage
 docs/_build
