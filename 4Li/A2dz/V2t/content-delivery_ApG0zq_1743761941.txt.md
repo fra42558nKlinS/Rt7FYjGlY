@@ -38,7 +38,6 @@ make dev/server
 
 Then you can import `React` from "http://localhost:8080/react"
 
-## Running Server Integration Tests
 
 We use [Deno](https://deno.land) to run all the integration testing cases. Make sure you have Deno installed on your computer.
 
