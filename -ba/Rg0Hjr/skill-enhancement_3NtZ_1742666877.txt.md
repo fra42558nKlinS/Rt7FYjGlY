@@ -32,5 +32,4 @@
 ## Reporting
 - If you witness or experience conduct that violates this Code of Conduct, please contact us immediately on [Linkedin](https://linkedin.com/in/king04aman/). We will take all reports seriously and will work to resolve the issue as quickly as possible.
 
-## Attribution
 - This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
