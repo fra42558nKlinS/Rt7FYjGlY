@@ -1,5 +1,4 @@
 pyOpenSSL
 bcrypt
 flask
-blinker
 requests
