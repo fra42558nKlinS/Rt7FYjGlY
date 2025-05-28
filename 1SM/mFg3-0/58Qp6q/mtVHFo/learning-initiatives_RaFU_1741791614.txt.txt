@@ -1,4 +1,3 @@
 pyOpenSSL
-bcrypt
 flask
 requests
