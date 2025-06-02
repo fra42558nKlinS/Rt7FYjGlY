@@ -11,7 +11,6 @@ import argparse
 frame_processed = 0
 score_thresh = 0.2
 
-# Create a worker thread that loads graph and
 # does detection on images in an input queue and puts it on an output queue
 
 
