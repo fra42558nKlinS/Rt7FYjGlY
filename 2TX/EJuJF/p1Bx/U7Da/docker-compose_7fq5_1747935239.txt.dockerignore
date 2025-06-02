@@ -7,7 +7,6 @@ stacks
 tmp
 /private
 
-# Docker extra
 docker
 frontend
 .editorconfig
